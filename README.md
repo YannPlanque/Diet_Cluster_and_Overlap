@@ -24,7 +24,7 @@ Before running the script, please download the file repository in the ZIP file a
 
 First publication on GitHub : 2020-11-05
 
-Last update : 2021-04-21 (Version 1.3)
+Last update : 2021-07-06 (Version 1.4)
 
 ## Author : Yann Planque<sup>(1)</sup>
  Affiliation :
