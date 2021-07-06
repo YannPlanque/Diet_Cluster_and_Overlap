@@ -15,11 +15,7 @@ A data set summarising the (reconstructed and/or measured) **mass (e.g. g, kg)**
 • **CASE STUDY** : The harbour seals and grey seal diets were analysed based on the hard prey remains contained in scat samples collected in the *Baie de Somme* (France) from 2002 to 2019. Here the used data set included 193 harbour seal and 77 grey seal scats.
 
 ## Script developped as part of: 
-Planque, Y., Spitz, J., Authier, M., Guillou, G., Vincent, C., Caurant, F. Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at the Southern limit of their European range (Eastern English Channel). Submitted in 'Ecology and Evolution'.
-
-Preprint version (1st version submitted in 2020-11): https://doi.org/10.22541/au.160508195.50224560/v1
-
-Peer review status (2021-03-31): minor revision
+Planque Y, Spitz J, Authier M, Guillou G, Vincent C, Caurant F. Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at the southern limit of their European range (Eastern English Channel). Ecol Evol. 2021;00:1– 22. https://doi.org/10.1002/ece3.7739
 
 ## Data used in this script are freely available on SEANOE:
 Planque Yann, Vincent Cécile, Caurant Florence, Spitz Jérôme (2020). Content of harbour seal (Phoca vitulina) and grey seal (Halichoerus grypus) scats in prey classified by functional groups (samples collected in the *Baie de Somme*, France, from 2002 to 2019). SEANOE. https://doi.org/10.17882/76780
